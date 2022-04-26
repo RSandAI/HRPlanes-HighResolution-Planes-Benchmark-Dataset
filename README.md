@@ -1,3 +1,7 @@
+# Paper published of this Study
+
+HRPlanes: High Resolution Airplane Dataset for Deep Learning: [Download](https://arxiv.org/abs/2204.10959)
+
 # High Resolution Planes Benchmark Dataset and Trained Model Weights-HRPlanes
 
 This repo contains weights of YOLOv4 and Faster R-CNN networks trained with HRPlanes dataset. YOLOv4 training have been performed using Darknet (https://github.com/AlexeyAB/darknet). Faster R-CNN have been trained using TensorFlow Object Detection API v1.13 (https://github.com/tensorflow/models/tree/r1.13.0). 
