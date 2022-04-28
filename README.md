@@ -33,3 +33,10 @@ The dataset has been approximately split as 70% (2166 images), 20% (615 images) 
 Use of the Google Earth images must respect the ["Google Earth" terms of use](https://about.google/brand-resource-center/products-and-services/geo-guidelines/). All images and their associated annotations can be used for academic purposes only, but any commercial use is prohibited.
 
 Released under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+# Citation
+
+If you use the this repository, please cite our paper given below:
+
+Bakirman, T., & Sertel, E. (2022). HRPlanes: High Resolution Airplane Dataset for Deep Learning. Retrieved 28 April 2022, from https://arxiv.org/abs/2204.10959
+
