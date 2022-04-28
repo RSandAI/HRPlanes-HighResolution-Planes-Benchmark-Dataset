@@ -38,5 +38,5 @@ Released under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 
 If you use the this repository, please cite our paper given below:
 
-Bakirman, T., & Sertel, E. (2022). HRPlanes: High Resolution Airplane Dataset for Deep Learning. Retrieved 28 April 2022, from https://arxiv.org/abs/2204.10959
+Bakirman, T., & Sertel, E. (2022). HRPlanes: High Resolution Airplane Dataset for Deep Learning, from https://arxiv.org/abs/2204.10959
 
