@@ -1,6 +1,6 @@
 # Paper published of this Study
 
-HRPlanes: High Resolution Airplane Dataset for Deep Learning: [Download](https://arxiv.org/abs/2204.10959)
+A benchmark dataset for deep learning-based airplane detection: HRPlanes [Download]((https://dergipark.org.tr/en/pub/ijeg/article/1107890))
 
 # High Resolution Planes Benchmark Dataset and Trained Model Weights-HRPlanes
 
